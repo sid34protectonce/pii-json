@@ -1,0 +1,115 @@
+{
+    "Categories": {
+        "Finance": {
+            "Countries": {
+                "US": {
+                    "Currency": {},
+                    "Credit_Card": {},
+                    "Debit_Card": {},
+                    "FSC_Code": {},
+                    "Bank_Acc": {}
+                },
+                "EU": {
+                    "Currency": {},
+                    "Credit_Card": {},
+                    "Debit_Card": {},
+                    "FSC_Code": {},
+                    "Bank_Acc": {}
+                },
+                "AUS": {
+                    "Currency": {},
+                    "Credit_Card": {},
+                    "Debit_Card": {},
+                    "FSC_Code": {},
+                    "Bank_Acc": {}
+                },
+                "CHINA": {
+                    "Currency": {},
+                    "Credit_Card": {},
+                    "Debit_Card": {},
+                    "FSC_Code": {},
+                    "Bank_Acc": {}
+                },
+                "ISRAEL": {
+                    "Currency": {},
+                    "Credit_Card": {},
+                    "Debit_Card": {},
+                    "FSC_Code": {},
+                    "Bank_Acc": {}
+                },
+                "GER": {
+                    "Currency": {},
+                    "Credit_Card": {},
+                    "Debit_Card": {},
+                    "FSC_Code": {},
+                    "Bank_Acc": {}
+                },
+                "FRA": {
+                    "Currency": {},
+                    "Credit_Card": {},
+                    "Debit_Card": {},
+                    "FSC_Code": {},
+                    "Bank_Acc": {}
+                },
+                "POLAND": {
+                    "Currency": {},
+                    "Credit_Card": {},
+                    "Debit_Card": {},
+                    "FSC_Code": {},
+                    "Bank_Acc": {}
+                }
+            }
+        },
+        "PII": {
+            "General": {
+                "NAME": {},
+                "IP_Address": {},
+                "base64": "((([A-Za-z0-9+/]{4})*)([A-Za-z0-9+/]{4}|[A-Za-z0-9+/]{3}=|[A-Za-z0-9+/]{2}==))",
+                "Email": {},
+                "Vehical_Number":{
+
+                }
+            },
+            "Countries": {
+                "US": {
+                    "Zip_Code": {
+                        "SSN": {}
+                    }
+                },
+                "EU": {
+                    "Zip_Code": {}
+                },
+                "AUS": {
+                    "Zip_Code": {
+                        "SSN": {}
+                    }
+                },
+                "CHINA": {
+                    "Zip_Code": {}
+                },
+                "ISRAEL": {
+                    "Zip_Code": {}
+                },
+                "GER": {
+                    "Zip_Code": {}
+                },
+                "FRA": {
+                    "Zip_Code": {}
+                },
+                "POLAND": {
+                    "Zip_Code": {}
+                }
+            }
+        },
+        "Trademark": {
+            "General": "/(?:^|\\s)(?:Corporation|Corp|Inc|Incorporated|Company|LTD|PLLC|P\\.C)(?:®)?\\.?$/ig",
+            "Corporation": "/(?:^|\\s)Corporation\\.?(?:$|\\s)/ig",
+            "Corp": "/(?:^|\\s)Corp\\.?(?:$|\\s)/ig",
+            "Inc": "/(?:^|\\s)Inc\\.?(?:$|\\s)/ig",
+            "Incorporated": "/(?:^|\\s)Incorporated\\.?(?:$|\\s)/ig",
+            "Company": "/(?:^|\\s)Company\\.?(?:$|\\s)/ig",
+            "LTD": "/(?:^|\\s)LTD\\.?(?:$|\\s)/ig",
+            "PLLC": "/(?:^|\\s)PLLC\\.?(?:$|\\s)/ig"
+        }
+    }
+}
