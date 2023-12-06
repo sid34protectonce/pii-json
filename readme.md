@@ -27,7 +27,8 @@ For Poland ( [Vehical_Number](https://en.wikipedia.org/wiki/Vehicle_registration
 ## For Finance Part
 
 * For General Purpose ( [Debit_Card](https://debugpointer.com/regex/regex-for-debit-card) )
-* For US ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), Credit_Card [ [Visa](https://regexlib.com/Search.aspx?k=debit+card&c=-1&m=-1&ps=20),  [American_Express](https://stackoverflow.com/questions/72768/how-do-you-detect-credit-card-type-based-on-number), [Discover](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests), [Master_Card](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests)] )
+* For Credit_Card [ [Visa](https://regexlib.com/Search.aspx?k=debit+card&c=-1&m=-1&ps=20),  [American_Express](https://stackoverflow.com/questions/72768/how-do-you-detect-credit-card-type-based-on-number), [Discover](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests), [Master_Card](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests)]
+* For US ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex),  [Bank_Acc](https://www.regextester.com/102911) )
 * For AUS ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
   * Note: Currency is same as US currency
 * For CHINA ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
