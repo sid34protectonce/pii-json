@@ -43,3 +43,10 @@ For Poland ( [Vehical_Number](https://en.wikipedia.org/wiki/Vehicle_registration
 ## Additional Sources
 
 * This is will the section after once we fill every field
+* Addition to financial section will be via chatgpt this will include
+  * Date (It is in general section in finance), Transactions or Payment IDs, Invoice / reference
+  * In USA section of finance (Employer_Identification_Number, Currency_Code) are included
+  * In AUS BIC_Codes, Currency_Code
+  * In CHINA Stock_Symbols, Currency_Code
+  * In Israel Currency_Code
+  *
