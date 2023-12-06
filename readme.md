@@ -26,6 +26,18 @@ For Poland ( [Vehical_Number](https://en.wikipedia.org/wiki/Vehicle_registration
 
 ## For Finance Part
 
+* For General Purpose ( [Debit_Card](https://debugpointer.com/regex/regex-for-debit-card) )
+* For US ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), Credit_Card [ [Visa](https://regexlib.com/Search.aspx?k=debit+card&c=-1&m=-1&ps=20),  [American_Express](https://stackoverflow.com/questions/72768/how-do-you-detect-credit-card-type-based-on-number), [Discover](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests), [Master_Card](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests)] )
+* For AUS ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
+  * Note: Currency is same as US currency
+* For CHINA ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
+  * Note: Same as above logic for currency
+* For GER ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), )
+  * It is important to see how german number are written so that currency can be written in german number which interchanges the mean of , and .
+* For FRA ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), )
+* For Israel ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
+* For Poland ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
+
 ## Additional Sources
 
 * This is will the section after once we fill every field
