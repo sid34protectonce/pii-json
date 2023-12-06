@@ -27,17 +27,17 @@ For Poland ( [Vehical_Number](https://en.wikipedia.org/wiki/Vehicle_registration
 ## For Finance Part
 
 * For General Purpose ( [Debit_Card](https://debugpointer.com/regex/regex-for-debit-card) )
-* For Credit_Card [ [Visa](https://regexlib.com/Search.aspx?k=debit+card&c=-1&m=-1&ps=20),  [American_Express](https://stackoverflow.com/questions/72768/how-do-you-detect-credit-card-type-based-on-number), [Discover](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests), [Master_Card](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests)]
+* For Credit_Card [ [Visa](https://regexlib.com/Search.aspx?k=debit+card&c=-1&m=-1&ps=20),  [American_Express](https://stackoverflow.com/questions/72768/how-do-you-detect-credit-card-type-based-on-number), [Discover](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests), [Master_Card](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests), [Union_Pay](https://docs.trellix.com/bundle/data-loss-prevention-11.10.x-classification-definitions-reference-guide/page/GUID-B8D29ECE-E70A-401E-B18D-B773F4FF71ED.html) ]
 * For US ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex),  [Bank_Acc](https://www.regextester.com/102911) )
-* For AUS ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
+* For AUS ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://stackoverflow.com/questions/43132076/regular-expression-to-validate-an-australian-bank-bsb-number-xxx-xxx) )
   * Note: Currency is same as US currency
 * For CHINA ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
   * Note: Same as above logic for currency
 * For GER ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), )
   * It is important to see how german number are written so that currency can be written in german number which interchanges the mean of , and .
-* For FRA ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), )
+* For FRA ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), [Bank_Acc](https://docs.oracle.com/cd/E18727_01/doc.121/e13483/T359831T498954.htm) )
 * For Israel ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
-* For Poland ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
+* For Poland ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://docs.oracle.com/cd/E18727_01/doc.121/e13483/T359831T498954.htm) )
 
 ## Additional Sources
 
