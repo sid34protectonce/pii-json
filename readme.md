@@ -31,13 +31,14 @@ For Poland ( [Vehical_Number](https://en.wikipedia.org/wiki/Vehicle_registration
 * For US ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex),  [Bank_Acc](https://www.regextester.com/102911) )
 * For AUS ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://stackoverflow.com/questions/43132076/regular-expression-to-validate-an-australian-bank-bsb-number-xxx-xxx) )
   * Note: Currency is same as US currency
-* For CHINA ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
+* For CHINA ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://www.remitbee.com/help/swiftibanbank-code-requirements/bank-requirement-china) )
   * Note: Same as above logic for currency
-* For GER ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), )
+* For GER ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), [Bank_Acc](http://ht5ifv.serprest.pt/extensions/tools/IBAN/index.html) )
   * It is important to see how german number are written so that currency can be written in german number which interchanges the mean of , and .
 * For FRA ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), [Bank_Acc](https://docs.oracle.com/cd/E18727_01/doc.121/e13483/T359831T498954.htm) )
-* For Israel ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), )
+* For Israel ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://learn.microsoft.com/en-us/purview/sit-defn-israel-bank-account-number) )
 * For Poland ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://docs.oracle.com/cd/E18727_01/doc.121/e13483/T359831T498954.htm) )
+* Note: FSC code not found
 
 ## Additional Sources
 
