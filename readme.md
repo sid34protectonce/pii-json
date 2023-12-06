@@ -8,7 +8,7 @@ For [Trademarks](https://stackoverflow.com/questions/15162590/regex-to-validate-
 
 For **[Base64](https://www.baeldung.com/linux/base64-find-string-regex)**
 
-For *[Email, Ip Address, Name](https://github.com/sid34protectonce/pii/blob/main/rules.json)*
+For *[Email, Ip Address, Name](https://github.com/sid34protectonce/pii/blob/main/rules.json), [Mac_Address](https://regexlib.com/Search.aspx?k=mac%20address)*
 
 For US ( [Vehical_Number](https://forums.phpfreaks.com/topic/124660-us-car-vin-regex/),  [SSN](https://ihateregex.io/expr/ssn/),  [Zip_Code](https://www.oreilly.com/library/view/regular-expressions-cookbook/9781449327453/ch04s14.html#:~:text=You%20need%20to%20validate%20a,123456789%20%2C%20or%201234%2D56789%20.), [Phone_Number](https://stackoverflow.com/questions/9776231/regular-expression-to-validate-us-phone-numbers) )
 
@@ -26,7 +26,7 @@ For Poland ( [Vehical_Number](https://en.wikipedia.org/wiki/Vehicle_registration
 
 ## For Finance Part
 
-* For General Purpose ( [Debit_Card](https://debugpointer.com/regex/regex-for-debit-card) )
+* For General Purpose ( [Debit_Card](https://debugpointer.com/regex/regex-for-debit-card), [Credit_Card](https://regexlib.com/Search.aspx?k=credit+card&c=-1&m=-1&ps=20) )
 * For Credit_Card [ [Visa](https://regexlib.com/Search.aspx?k=debit+card&c=-1&m=-1&ps=20),  [American_Express](https://stackoverflow.com/questions/72768/how-do-you-detect-credit-card-type-based-on-number), [Discover](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests), [Master_Card](https://stackoverflow.com/questions/9315647/regex-credit-card-number-tests), [Union_Pay](https://docs.trellix.com/bundle/data-loss-prevention-11.10.x-classification-definitions-reference-guide/page/GUID-B8D29ECE-E70A-401E-B18D-B773F4FF71ED.html) ]
 * For US ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex),  [Bank_Acc](https://www.regextester.com/102911) )
 * For AUS ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://stackoverflow.com/questions/43132076/regular-expression-to-validate-an-australian-bank-bsb-number-xxx-xxx) )
@@ -35,9 +35,9 @@ For Poland ( [Vehical_Number](https://en.wikipedia.org/wiki/Vehicle_registration
   * Note: Same as above logic for currency
 * For GER ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), [Bank_Acc](http://ht5ifv.serprest.pt/extensions/tools/IBAN/index.html) )
   * It is important to see how german number are written so that currency can be written in german number which interchanges the mean of , and .
-* For FRA ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), [Bank_Acc](https://docs.oracle.com/cd/E18727_01/doc.121/e13483/T359831T498954.htm) )
-* For Israel ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://learn.microsoft.com/en-us/purview/sit-defn-israel-bank-account-number) )
-* For Poland ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://docs.oracle.com/cd/E18727_01/doc.121/e13483/T359831T498954.htm) )
+* For FRA ( [Currency](https://stackoverflow.com/questions/28360966/regular-expression-to-match-german-number), [Bank_Acc](https://docs.oracle.com/cd/E18727_01/doc.121/e13483/T359831T498954.htm), [IBAN](http://ht5ifv.serprest.pt/extensions/tools/IBAN/index.html) )
+* For Israel ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://learn.microsoft.com/en-us/purview/sit-defn-israel-bank-account-number), [IBAN](http://ht5ifv.serprest.pt/extensions/tools/IBAN/index.html) )
+* For Poland ( [Currency](https://stackoverflow.com/questions/354044/what-is-the-best-u-s-currency-regex), [Bank_Acc](https://docs.oracle.com/cd/E18727_01/doc.121/e13483/T359831T498954.htm), [IBAN](http://ht5ifv.serprest.pt/extensions/tools/IBAN/index.html) )
 * Note: FSC code not found
 
 ## Additional Sources
@@ -49,4 +49,13 @@ For Poland ( [Vehical_Number](https://en.wikipedia.org/wiki/Vehicle_registration
   * In AUS BIC_Codes, Currency_Code
   * In CHINA Stock_Symbols, Currency_Code
   * In Israel Currency_Code
-  *
+  * In France FIBN, BIC
+* Prompt Provided
+
+```plaintext
+Give me a list of regular expressions that are parse able in java script and can be utilised to identify the following type of information: {country} Finance related  data.
+
+The list should consist of a minimum 25 types and surplus is appreciated.
+
+please provide the output in json
+```
