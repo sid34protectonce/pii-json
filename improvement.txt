@@ -1,0 +1,8 @@
+/* Some countries are missing IBAN, refer to list here https://www.iban.com/structure  */
+
+// https://www.insiderintelligence.com/insights/credit-card-networks-payment-list/
+
+/* Match crypto wallet addresses rather than actual service names
+    https://gist.github.com/MBrassey/623f7b8d02766fa2d826bf9eca3fe005
+    https://publication.osintambition.org/20-regular-expressions-examples-to-search-for-data-related-to-cryptocurrencies-43e31dd4a5dc
+    */
